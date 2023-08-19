@@ -22,7 +22,7 @@ Also,
 - this script will ask you to replace that with a name that makes sense to print (Village A, Ring Road on river B, ...)
 - sometimes the array that populates the "UserFix"->custom name is a bit weird, and the last nav log item comes out as "UserFix" even if you wrote something down... haven't been able to pin point exactly what it is
 - if you want to test before hand, just:
-  - in the script.py uncomment the 2 "DEBUGGING?" comments so you get some verbose
+  - in the script.py uncomment the 2 "DEBUGGING?" comments towards the end of the file so you get some nice verbose
   - copy your navlog and when prompted type in the custom waypoints as 1, 2, 3, 4...
   - just make sure that the numbers make sense and are all there
 
